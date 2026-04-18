@@ -2,9 +2,7 @@
   <img src="https://raw.githubusercontent.com/Jul1en-Lin/Jul1en-Lin/main/assets/banner.jpg" alt="banner" width="100%" />
 </div>
 
-<h2 align="center">Hi there 👋</h2>
-
-<h2 align="center">🎏🎏🎏</h2>
+<h2>🎏🎏🎏</h2>
 
 <!--
 **Jul1en-Lin/Jul1en-Lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
