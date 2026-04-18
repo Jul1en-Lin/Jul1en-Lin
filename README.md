@@ -2,11 +2,7 @@
   <img src="https://raw.githubusercontent.com/Jul1en-Lin/Jul1en-Lin/main/assets/banner.jpg" alt="banner" width="100%" />
 </div>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=2E97F7&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!;Coding+is+my+passion+%E2%9C%A8" alt="Typing SVG" />
-  </a>
-</h1>
+<h2 align="center">Hi there 👋</h2>
 
 <p align="center">🎏🎏🎏</p>
 
