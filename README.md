@@ -1,6 +1,6 @@
 <h2>Hi, I'm JunWen Lin!</h2>
 
-<img align="right" src="./assets/coding-male-light.gif" width="230" alt="JunWen Lin coding" />
+<img align="right" src="./assets/coding-male-light.gif" width="190" alt="JunWen Lin coding" />
 
 [![Me](https://img.shields.io/badge/-me-57606a?style=flat-square&logo=github&logoColor=white)](https://jul1en-lin.github.io)
 [![Blog](https://img.shields.io/badge/-blog-2f81f7?style=flat-square&logo=githubpages&logoColor=white)](https://jul1en-lin.github.io/post)
@@ -18,7 +18,7 @@ const junwen = {
 
 ---
 
-### Open source contributions
+<b>Open source contributions</b>
 
 | Project | Contribution |
 |---|---|
