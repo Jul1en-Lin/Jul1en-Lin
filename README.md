@@ -11,7 +11,7 @@
 const junwen = {
   pronouns: "he" | "him",
   code: [TypeScript, JavaScript, Python, Java],
-  tools: [Hugo, SiYuan, Git, Markdown],
+  tools: [Hugo, SiYuan, Git, Docker, Node],
   interests: ["frontend craft", "publishing workflows", "AI-assisted tooling"]
 }
 ```
