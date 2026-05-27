@@ -6,10 +6,10 @@
 <div><strong><span style="font-size: 28px;">A little more about me...</span></strong></div>
 
 ```javascript
-const junwen = {
+const Jul1en = {
   pronouns: "he" | "him",
   code: [TypeScript, JavaScript, Python, Java],
-  tools: [Hugo, SiYuan, Git, Docker, Node],
+  tools: [Hugo, SiYuan, Docker, Node],
   interests: ["frontend craft", "publishing workflows", "AI-assisted tooling"]
 }
 ```
