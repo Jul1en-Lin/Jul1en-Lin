@@ -4,9 +4,8 @@
 
 <p>
   <samp>
-    <a href="https://jul1en-lin.github.io">blog</a> .
-    <a href="https://github.com/Jul1en-Lin?tab=repositories">projects</a> .
-    <a href="https://github.com/Jul1en-Lin?tab=stars">stars</a>
+    <a href="https://jul1en-lin.github.io">me</a> .
+    <a href="https://jul1en-lin.github.io/post">blog</a>
   </samp>
 </p>
 
@@ -17,21 +16,9 @@
   </samp>
 </p>
 
----
-
-### Now
-
-- Writing notes and essays at [jul1en-lin.github.io](https://jul1en-lin.github.io)
-- Building [siyuan-plugin-hugo](https://github.com/Jul1en-Lin/siyuan-plugin-hugo), a SiYuan plugin for syncing documents into a Hugo blog
-- Learning open source through small, focused pull requests
-
 ### Open Source
 
 | Project | Contribution |
 |---|---|
 | [JOYCEQL/magic-resume](https://github.com/JOYCEQL/magic-resume) | [#338](https://github.com/JOYCEQL/magic-resume/pull/338) Fixed the poster-style resume template background consistency when exporting PDF. |
 | [siyuan-note/bazaar](https://github.com/siyuan-note/bazaar) | [#1823](https://github.com/siyuan-note/bazaar/pull/1823) Added `siyuan-plugin-hugo` to the SiYuan community plugin marketplace. |
-
-### Toolbox
-
-`Hugo` · `SiYuan` · `TypeScript` · `Python` · `Git` · `Markdown`
