@@ -1,24 +1,36 @@
-<h2>Hi, I'm JunWen Lin.</h2>
+<h2>Hi, I'm JunWen Lin!</h2>
 
-<img align="right" src="./assets/coding-male-light.gif" width="190" height="190" alt="JunWen Lin coding" />
+<img align="right" src="./assets/coding-male-light.gif" width="230" alt="JunWen Lin coding" />
 
-<p>
-  <samp>
-    <a href="https://jul1en-lin.github.io">me</a> .
-    <a href="https://jul1en-lin.github.io/post">blog</a>
-  </samp>
-</p>
+<p><em>
+Writing notes and essays at <a href="https://jul1en-lin.github.io">jul1en-lin.github.io</a><br/>
+Building small tools for writing, publishing, and daily workflows.
+</em></p>
 
-<p>
-  <samp>
-    Building small tools for writing, publishing, and daily workflows.<br/>
-    Interested in Hugo, SiYuan, frontend craft, and practical AI-assisted tooling.
-  </samp>
-</p>
+[![Blog](https://img.shields.io/badge/-blog-2f81f7?style=flat-square&logo=githubpages&logoColor=white)](https://jul1en-lin.github.io/post)
+[![GitHub Jul1en-Lin](https://img.shields.io/github/followers/Jul1en-Lin?label=follow&style=social)](https://github.com/Jul1en-Lin)
 
-<br clear="right" />
+### A little more about me...
 
-### Open Source
+```javascript
+const junwen = {
+  pronouns: "he" | "him",
+  code: [TypeScript, JavaScript, Python, Java],
+  tools: [Hugo, SiYuan, Git, Markdown],
+  interests: ["frontend craft", "publishing workflows", "AI-assisted tooling"],
+  openSource: {
+    magicResume: "fixed PDF export background consistency",
+    siyuanBazaar: "added siyuan-plugin-hugo to the community marketplace"
+  },
+  blog: "https://jul1en-lin.github.io"
+}
+```
+
+<em><b>Learning in public</b> through small tools, notes, and focused pull requests.</em>
+
+---
+
+### Open source contributions
 
 | Project | Contribution |
 |---|---|
