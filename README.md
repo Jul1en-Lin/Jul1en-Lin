@@ -5,7 +5,7 @@
 [![Me](https://img.shields.io/badge/-me-57606a?style=flat-square&logo=github&logoColor=white)](https://jul1en-lin.github.io)
 [![Blog](https://img.shields.io/badge/-blog-2f81f7?style=flat-square&logo=githubpages&logoColor=white)](https://jul1en-lin.github.io/post)
 
-### A little more about me...
+<b>A little more about me...</b>
 
 ```javascript
 const junwen = {
