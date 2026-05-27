@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="./assets/coding-male.gif" width="260" alt="JunWen Lin coding" />
-</p>
+<h2>Hi, I'm JunWen Lin.</h2>
 
-<p align="center">
+<img align="right" src="./assets/coding-male.gif" width="230" alt="JunWen Lin coding" />
+
+<p>
   <samp>
     <a href="https://jul1en-lin.github.io">blog</a> .
     <a href="https://github.com/Jul1en-Lin?tab=repositories">projects</a> .
@@ -10,9 +10,7 @@
   </samp>
 </p>
 
-<h2 align="center">Hi, I'm JunWen Lin.</h2>
-
-<p align="center">
+<p>
   <samp>
     Building small tools for writing, publishing, and daily workflows.<br/>
     Interested in Hugo, SiYuan, frontend craft, and practical AI-assisted tooling.
