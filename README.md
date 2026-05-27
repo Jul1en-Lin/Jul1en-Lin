@@ -3,7 +3,7 @@
 [![Me](https://img.shields.io/badge/-me-D3AA8F?style=flat-square)](https://jul1en-lin.github.io)
 [![Blog](https://img.shields.io/badge/-blog-703525?style=flat-square)](https://jul1en-lin.github.io/post)
 
-<div><strong><font size="5">A little more about me...</font></strong></div>
+## A little more about me...
 
 ```javascript
 const junwen = {
@@ -16,7 +16,7 @@ const junwen = {
 
 ---
 
-<div><strong><font size="5">Open source contributions</font></strong></div>
+## Open source contributions
 
 | Project | Contribution |
 |---|---|
