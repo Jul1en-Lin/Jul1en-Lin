@@ -2,8 +2,8 @@
 
 <img align="right" src="./assets/coding-male-light.gif" width="190" alt="JunWen Lin coding" />
 
-[![Me](https://img.shields.io/badge/-me-57606a?style=flat-square&logo=github&logoColor=white)](https://jul1en-lin.github.io)
-[![Blog](https://img.shields.io/badge/-blog-2f81f7?style=flat-square&logo=githubpages&logoColor=white)](https://jul1en-lin.github.io/post)
+[![Me](https://img.shields.io/badge/-me-D3AA8F?style=flat-square)](https://jul1en-lin.github.io)
+[![Blog](https://img.shields.io/badge/-blog-703525?style=flat-square)](https://jul1en-lin.github.io/post)
 
 <b>A little more about me...</b>
 
