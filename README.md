@@ -1,6 +1,6 @@
 <h2>Hi, I'm JunWen Lin.</h2>
 
-<img align="right" src="./assets/coding-male.gif" width="230" alt="JunWen Lin coding" />
+<img align="right" src="./assets/coding-male-light.gif" width="190" height="190" alt="JunWen Lin coding" />
 
 <p>
   <samp>
@@ -15,6 +15,8 @@
     Interested in Hugo, SiYuan, frontend craft, and practical AI-assisted tooling.
   </samp>
 </p>
+
+<br clear="right" />
 
 ### Open Source
 
