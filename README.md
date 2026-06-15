@@ -10,8 +10,8 @@
 const Jul1en = {
   pronouns: "he" | "him",
   code: [TypeScript, JavaScript, Python, Java],
-  tools: [Docker, Node],
-  interests: ["frontend craft", "publishing workflows", "AI-assisted tooling"]
+  tools: [Docker, Redis, RabbitMQ, Node],
+  interests: ["Full-Stack", "Publishing workflows", "AI-assisted tooling"]
 }
 ```
 
