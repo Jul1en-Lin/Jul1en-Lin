@@ -1,23 +1,24 @@
 <img align="right" src="./assets/coding-male-light.gif" width="230" alt="JunWen Lin coding" />
 
-[![Me](https://img.shields.io/badge/-me-D3AA8F?style=flat-square)](https://jul1en-lin.github.io)
-[![Blog](https://img.shields.io/badge/-blog-703525?style=flat-square)](https://jul1en-lin.github.io/post)
-𖠚ᐝ˚ ༘ ೀ⋆｡˚
 
+[![Blog](https://img.shields.io/badge/-blog-703525?style=flat-square)](https://jul1en-lin.github.io)
+
+𖠚ᐝ˚ ༘ ೀ⋆｡˚
 <div><strong><font size="5">A little more about me...</font></strong></div>
 
-```javascript
+
+```typescript
 const Jul1en = {
   pronouns: "he" | "him",
   code: [TypeScript, JavaScript, Python, Java],
   tools: [Docker, Redis, RabbitMQ, Node],
-  interests: ["Full-Stack", "Publishing workflows", "AI-assisted tooling"]
+  interests: ["Full-Stack", "Publishing workflows", "AI engineering"]
 }
 ```
 
 ---
 
-<div><strong><font size="5">Open source contributions</font></strong></div>
+<div><strong><font size="5">开源项目贡献🎉</font></strong></div>
 
 | Project | Contribution |
 |---|---|
