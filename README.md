@@ -9,16 +9,16 @@
 
 ```typescript
 const Jul1en = {
-  pronouns: "he" | "him",
+  pronouns: "man!",
   code: [TypeScript, JavaScript, Python, Java],
   tools: [Docker, Redis, RabbitMQ, Node],
-  interests: ["Full-Stack", "Publishing workflows", "AI engineering"]
+  interests: ["Plugins", "Publishing workflows", "AI engineering"]
 }
 ```
 
 ---
 
-<div><strong><font size="5">开源项目贡献🎉</font></strong></div>
+<div><strong><font size="5">开源项目贡献</font></strong></div>
 
 | Project | Contribution |
 |---|---|
