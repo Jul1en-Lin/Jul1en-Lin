@@ -18,7 +18,7 @@ const Jul1en = {
 
 ---
 
-<div><strong><font size="5">开源项目贡献</font></strong></div>
+<div><strong><font size="5">Contribution</font></strong></div>
 
 | Project | Contribution |
 |---|---|
